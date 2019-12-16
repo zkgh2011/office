@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/zkgh2011/office/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.[文档下载](https://github.com/zkgh2011/office/raw/master/18090003qtz2.docx)
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.[文档下载](https://github.com/zkgh2011/office/raw/master/18090003qtz2.docx target=_blank)
 
 ### Markdown
 
